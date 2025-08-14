@@ -1,6 +1,5 @@
 # blog
-Personal blog website
-This is a personal blog website created to demonstrate hands-on experience with ReactJS and Bootstrap. The project serves as a practical application of core React concepts, component-based architecture, and responsive web design principles.
+Personal blog website - created to demonstrate hands-on experience with ReactJS and Bootstrap. The project serves as a practical application of core React concepts, component-based architecture, and responsive web design principles.
 
 # Technologies Used
 ReactJS: A JavaScript library for building user interfaces. This project focuses on using functional components and hooks to manage state and lifecycle.
