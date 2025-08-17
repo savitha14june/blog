@@ -24,24 +24,15 @@ const Post1 = () => {
                     I also like hanging out, reading books..
                     <br /><br />
                      <b>Things I Like:</b>
-                     <ul>
-                        <li>Video games</li>
-                        <li>Snacks</li>
-                     </ul>
+                     
                                      
                     <br /><br />
                      <b>Things I Don’t Like: </b>      
-                     <ul>
-                        <li>Waiting for updates to install</li>
-                        <li>Vegetables pretending to be chips</li>
-                     </ul>            
+                                
                     
                     <br /><br />
                      <b>Future Plans:</b>
-                     <ul>
-                        <li>Become the world’s chillest game designer</li>
-                        <li>Invent a snack that refills itself</li>
-                    </ul>
+                     
 
                 </Card.Text>
                 <a href="#" className="btn btn-primary">To more about me..</a>

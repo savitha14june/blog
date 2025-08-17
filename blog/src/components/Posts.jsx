@@ -4,6 +4,8 @@ import React from "react";
 import Post1 from "./Post1";
 import Post2 from "./Post2";
 import { Container, Row, Col, Card } from 'react-bootstrap';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 
 const Posts = () => {
@@ -18,7 +20,7 @@ const Posts = () => {
                         <Card.Body>
                             <Card.Title>My links to..</Card.Title>
                             <ul className="list-unstyled">
-                                <li><a href="#">Chess</a></li>
+                                <li><a href="/chess">Chess</a></li>
                                 <li><a href="#">Duolingo</a></li>
                             </ul>
                         </Card.Body>
